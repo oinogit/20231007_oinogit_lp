@@ -474,6 +474,9 @@ td {
     .news__list {
         margin: 0 20%;
     }
+    .about__text {
+        font-size: 1.1em;
+    }
     .service__box {
         margin: 0 10%;
     }
@@ -501,6 +504,18 @@ td {
     .news__list {
         margin: 0
         15%;
+    }
+    .about {
+        height: 430px;
+    }
+    .about__text {
+        font-size: 0.9em;
+        margin-top: 4%;
+        margin-left: 11%;
+    }
+    .about__img {
+        width: 35%;
+        margin-top: 4%;
     }
     .service__box {
         margin: 0 8%;
@@ -721,7 +736,7 @@ td {
     }
 
     .about {
-        height: 550px;
+        height: 560px;
     }
     .about__logo {
         padding-top: 6%;
@@ -733,7 +748,7 @@ td {
         display: block;
     }
     .about__text {
-        margin: 4% 10%;
+        margin: 5% 14%;
     }
     .about__img {
         width: 80%;
